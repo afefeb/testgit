@@ -3,5 +3,9 @@ public class haha{
         System.out.println("123");
         System.out.println("hehe");
         System.out.println("huhu");
+
+        System.out.println("Makan");
+        System.out.println("muahahahah");
+        
     }
 }
